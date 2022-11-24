@@ -1,0 +1,23 @@
+div.berita{
+    margin: 0 auto;
+    width: 90%;
+    height: 300px;
+    column-count: 2;
+    column-gap: 30px;
+    column-rule-color: rgb(0, 0, 0);
+    column-rule-style: solid;
+    column-rule-width: 2px;
+}
+div.judul{
+    text-align: center;
+    color: darkred;
+}
+div.sumber{
+    text-align: center;
+    color:black;
+    display : inline-block;
+    width: 200px;
+    float: center;
+    border: 2px solid rgb(24, 0, 240);
+    margin: 10px;
+}
